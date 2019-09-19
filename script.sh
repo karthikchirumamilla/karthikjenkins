@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "running the script now. be patient"
+echo "uchaapukooraa !!"
+echo "==================="
+OS=$(cat /etc/lsb-release)
+echo "OS details endhante : $OS"
+echo "saala inka kaavaala?"
+echo "===================="
