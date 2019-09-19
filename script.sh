@@ -6,3 +6,4 @@ OS=$(cat /etc/lsb-release)
 echo "OS details endhante : $OS"
 echo "saala inka kaavaala?"
 echo "===================="
+echo "ee line kothaga add cheshna. sudu mancihiga !!:)"
